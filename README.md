@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yessith93
-- 👀 I’m interested in learning about software development. 
-- 🌱 I’m currently learning .net 
-- 📫 mi email es yessith@misena.edu.co, linkedin profile is: https://www.linkedin.com/in/miguel-yessith-almanza-mestra-53a6663b/ 
+- 👀 I’m interested in software development. 
+- 🌱 I’m constantly learning , but at this moment and focus in react 
+- 📫 mi email es miguel.almanza.mestra@gmail.com, linkedin profile is: https://www.linkedin.com/in/miguel-almanza/ 
 I'm open to work with anyone as long as I can learn and be useful. 
 
 
