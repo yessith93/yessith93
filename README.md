@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yessith93
 - 👀 I’m interested in software development. 
-- 🌱 I’m constantly learning , but at this moment and focus in react 
-- 📫 mi email es miguel.almanza.mestra@gmail.com, linkedin profile is: https://www.linkedin.com/in/miguel-almanza/ 
+- 🌱 I’m constantly learning and develop new things
+- 📫 mi email es almanza.m@outlook.com,
+- 🏢 [linkedin profile](https://www.linkedin.com/in/miguel-almanza/)
+- 💻 [portafolio](https://miguelalmanza.netlify.app/)
 I'm open to work with anyone as long as I can learn and be useful. 
 
 
