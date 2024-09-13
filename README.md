@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yessith93
-- 👀 I’m interested in software development. 
-- 🌱 I’m constantly learning and develop new things
+- 👀 I’m interested in software development, focused on the backend but with knowledge in frontend.
+- 🌱 I’m constantly learning and developing new things
 - 📫 mi email es almanza.m@outlook.com,
 - 🏢 [linkedin profile](https://www.linkedin.com/in/miguel-almanza/)
 - 💻 [portafolio](https://miguelalmanza.netlify.app/)
